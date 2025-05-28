@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body, h1, h2, h3,h4,h6, p, ul, ol, li,div,nav,input{
+
+  margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+  }
