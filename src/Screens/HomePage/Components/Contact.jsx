@@ -38,7 +38,7 @@ const Contact = () => {
         <OfficeVector/>
         <h1 className='roboto-700 text-[20px] sm:text-[25px]'>Office</h1>
         <p className='roboto-400 text-[16px]'>Visit us at our physical location for more information.</p>
-        <p className='roboto-400 text-[16px] underline'>Waterpine Terrace, Admiralty Rd, Eti-Osa, Lekki 106104, Lagos</p>
+        <p className='roboto-400 text-[16px] underline'>1500 North Grant Street, Suite C Denver, olorado 80203 United States</p>
     </motion.div>
   </div>
   )
